@@ -19,7 +19,7 @@ Welcome to the documentation for volunteers at the Smallpeice Computing, Electro
 Over 5 days, we will help 50 sixth-form students to design, build, program and test fully autonomous robots,
 before running a competition for them on the Friday afternoon.
 
-You are not expected to read this handbook in its entirety, though please familiarise yourself with the following pages:
+You are not expected to read this handbook in its entirety, though please familiarise yourself with at least the following pages:
 
 -   [Volunteer structure](./volunteer-structure)
 -   [Volunteer area](./volunteer-area)

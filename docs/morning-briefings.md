@@ -5,7 +5,7 @@ sidebar_position: 4
 # Morning briefings
 
 Each morning, please arrive in the [volunteer area](./volunteer-area) for 08:25.
-The morning briefing will start promptly at 08:30, and last for approximately 15 minutes.
+The morning briefing will start promptly at 08:30, and last for approximately 15-20 minutes.
 
 The briefings will consist of:
 
@@ -16,3 +16,4 @@ The briefings will consist of:
 -   An opportunity for all volunteers to synchronise and raise suggestions/concerns
 
 You are welcome to bring your own breakfast to the briefings too.
+
