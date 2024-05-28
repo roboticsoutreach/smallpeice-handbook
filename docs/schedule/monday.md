@@ -8,7 +8,7 @@ sidebar_position: 1
 
 | Time  | Activity                          | Location       |
 | ----- | --------------------------------- | -------------- |
-| 08:15 | Volunteer briefing                | B59/1257       |
+| 08:15 | Volunteer briefing                | Volunteer area |
 | 08:45 | Mentor training                   | Level 2 Lab    |
 |       | SUSU setup                        | Building 42    |
 | 11:15 | SRO Intro Presentation (FoH, AMs) | B32/1015       |
