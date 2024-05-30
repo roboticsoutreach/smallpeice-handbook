@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Assigned Mentor
 
 Assigned mentors are allocated to two consecutive teams, with which they spend
