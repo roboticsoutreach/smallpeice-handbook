@@ -4,12 +4,6 @@ sidebar_position: 1
 
 # Introduction
 
-:::warning
-
-This handbook isn't complete yet!
-
-:::
-
 :::info
 This handbook is up-to-date for the 2024 event.
 :::
@@ -24,6 +18,7 @@ You are not expected to read this handbook in its entirety, though please famili
 -   [Volunteer structure](./volunteer-structure)
 -   [Volunteer area](./volunteer-area)
 -   [Morning briefings](./morning-briefings)
+-   [Robot safety](./robot-safety)
 
 ## What's what?
 
