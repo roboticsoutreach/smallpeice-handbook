@@ -18,3 +18,4 @@ Robots should be checked against the following criteria:
 -   No hazardous sharp edges are present
 -   The correct wire gauge is used
 -   No loose wires are present
+-   Wires are not exposed at terminals; the insulation must extend all the way to the screw terminal but must not itself be screwed down, as this will cause poor contact

@@ -4,8 +4,12 @@ sidebar_position: 5
 
 # Workshop
 
-The workshop is available to students for any use of tools.
+The workshop (59/2201, at the north end of the lab opposite the technical support office) is available to students for any use of tools.
 Note that power tools are available, but can only be operated by volunteers.
+
+The workshop door is ID card operated. Organisers will have access to this reader and the duty workshop supervisor will have the supervisor card, which will also open this door.
+
+**The workshop must NOT be left unattended at any point.**
 
 ## Workshop procedures
 
