@@ -6,17 +6,18 @@ sidebar_position: 1
 
 ## Schedule
 
-| Time  | Activity                          | Location       |
-| ----- | --------------------------------- | -------------- |
-| 08:15 | Volunteer briefing                | Volunteer area |
-| 08:45 | Mentor training                   | Level 2 Lab    |
-|       | SUSU setup                        | Building 42    |
-| 11:15 | SRO Intro Presentation (FoH, AMs) | B32/1015       |
-| 12:10 | Lunch                             | Volunteer area |
-| 13:10 | Workshop: Mechanics               | Level 2 Lab    |
-| 15:30 | Break                             | Volunteer area |
-| 15:45 | Robot hacking                     | Level 2 Lab    |
-| 18:00 | Dinner                            | TBD            |
+| Time  | Activity                          | Location            |
+| ----- | --------------------------------- | ------------------- |
+| 08:15 | Volunteer briefing                | Volunteer area      |
+| 08:45 | Mentor training                   | Level 2 Lab         |
+|       | SUSU setup                        | Building 42         |
+| 11:15 | SRO Intro Presentation (FoH, AMs) | B32/1015            |
+| 12:10 | Lunch                             | Volunteer area      |
+| 13:10 | Workshop: Mechanics               | Level 2 Lab         |
+| 15:30 | Break                             | Volunteer area      |
+| 15:45 | Robot hacking                     | Level 2 Lab         |
+| 18:00 | End of robot hacking              | Level 2 Lab         |
+| 18:30 | Dinner                            | Brewhouse & Kitchen |
 
 ## Mechanics Workshop
 

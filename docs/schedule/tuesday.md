@@ -18,7 +18,8 @@ sidebar_position: 2
 | 15:30 | Break                       | Volunteer area |
 | 15:50 | Sponsor talk                | B32/1015       |
 | 16:25 | Robot hacking               | Level 2 Lab    |
-| 18:00 | Dinner                      | TBC            |
+| 18:00 | End of robot hacking        | Level 2 Lab    |
+| 18:30 | Dinner                      | The Mitre      |
 
 ## Academic talk
 
