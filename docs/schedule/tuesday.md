@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Schedule
 
-| Time  | Activity                    | Location       |
-| ----- | --------------------------- | -------------- |
-| 08:30 | Volunteer briefing          | Volunteer area |
-| 09:00 | Academic talk (Speaker TBC) | B32/1015       |
-| 10:00 | Break                       | Volunteer area |
-| 10:30 | Workshop: Electronics       | Level 2 Lab    |
-| 12:00 | Lunch                       | Volunteer area |
-| 13:10 | Sponsor talk                | B32/1015       |
-| 14:15 | Workshop: Robotics          | Level 3 lab    |
-| 15:30 | Break                       | Volunteer area |
-| 15:50 | Sponsor talk                | B32/1015       |
-| 16:25 | Robot hacking               | Level 2 Lab    |
-| 18:00 | End of robot hacking        | Level 2 Lab    |
-| 18:30 | Dinner                      | The Mitre      |
+| Time  | Activity              | Location       |
+| ----- | --------------------- | -------------- |
+| 08:30 | Volunteer briefing    | Volunteer area |
+| 09:00 | Academic talk (Denis) | B58/1067       |
+| 10:00 | Break                 | Volunteer area |
+| 10:30 | Workshop: Electronics | Level 2 Lab    |
+| 12:00 | Lunch                 | Volunteer area |
+| 13:10 | Sponsor talk          | B32/1015       |
+| 14:15 | Workshop: Robotics    | Level 3 lab    |
+| 15:30 | Break                 | Volunteer area |
+| 15:45 | Sponsor talk          | B32/1015       |
+| 16:25 | Robot hacking         | Level 2 Lab    |
+| 18:00 | End of robot hacking  | Level 2 Lab    |
+| 18:30 | Dinner                | The Mitre      |
 
 ## Academic talk
 

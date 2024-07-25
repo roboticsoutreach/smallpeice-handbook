@@ -15,7 +15,7 @@ sidebar_position: 1
 | 12:10 | Lunch                             | Volunteer area      |
 | 13:10 | Workshop: Mechanics               | Level 2 Lab         |
 | 15:30 | Break                             | Volunteer area      |
-| 15:45 | Robot hacking                     | Level 2 Lab         |
+| 15:50 | Robot hacking                     | Level 2 Lab         |
 | 18:00 | End of robot hacking              | Level 2 Lab         |
 | 18:30 | Dinner                            | Brewhouse & Kitchen |
 

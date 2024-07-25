@@ -17,7 +17,7 @@ sidebar_position: 4
 | 15:00 | Break                          | Building 42               |
 | 15:15 | Robot hacking                  | Building 42               |
 | 18:00 | Dinner                         | B38 Terrace Restaurant    |
-| 19:30 | Lightning Talks                | B32/1015                  |
+| 19:10 | Lightning Talks                | B32/1015                  |
 | 20:30 | End of Day                     | -                         |
 
 ## Move to SUSU

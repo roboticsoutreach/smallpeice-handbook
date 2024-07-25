@@ -6,18 +6,18 @@ sidebar_position: 3
 
 ## Schedule
 
-| Time  | Activity           | Location                           |
-| ----- | ------------------ | ---------------------------------- |
-| 08:30 | Volunteer briefing | Volunteer area                     |
-| 08:50 | Lab Tours          | Starting at B28 Terrace Restaurant |
-| 12:00 | Lunch              | Volunteer area                     |
-| 13:00 | Academic talk      | B32/1015                           |
-| 14:05 | Robot hacking      | Level 2 Lab                        |
-| 15:30 | Break              | Volunteer area                     |
-| 16:00 | Robot hacking      | Level 2 Lab                        |
-| 18:00 | Dinner             | Piazza                             |
-| 19:10 | Robot hacking      | Level 2 Lab                        |
-| 21:10 | End of Day         | -                                  |
+| Time  | Activity            | Location                           |
+| ----- | ------------------- | ---------------------------------- |
+| 08:30 | Volunteer briefing  | Volunteer area                     |
+| 08:50 | Lab Tours           | Starting at B28 Terrace Restaurant |
+| 12:00 | Lunch               | Volunteer area                     |
+| 13:00 | Academic talk (Dan) | B32/1015                           |
+| 14:05 | Robot hacking       | Level 2 Lab                        |
+| 15:30 | Break               | Volunteer area                     |
+| 16:00 | Robot hacking       | Level 2 Lab                        |
+| 18:00 | Dinner              | Piazza                             |
+| 19:10 | Robot hacking       | Level 2 Lab                        |
+| 21:10 | End of Day          | -                                  |
 
 ## Lab tours
 
